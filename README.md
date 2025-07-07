@@ -33,6 +33,8 @@ This project documents the step by step process of setting up a basic ** Active 
 ##5 Created and Shared a Folder 
 - Created " Employee PW " folder on server 
 - Assigned NTFS permissions to " IT Admin" group 
+
+As shown in the screenshot I initially faced difficulty accessing the RDP this was due to port 3389 not being on the list for inbound which I had to manually add to access the Remote Desktop 
   
 ![Screenshot 2025-07-06 121201](https://github.com/user-attachments/assets/03fe1e34-74bf-432a-b67b-1219024![Screenshot 2025-07-06 214104](https://github.com/user-attachments/assets/8cf88b3a-5c83-41c1-a306-d151d2af80e6)
 ![ss for github](https://github.com/user-attachments/assets/5b225e41-3b2d-42e0-8cb2-9ad5beeb0327)
